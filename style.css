@@ -17,9 +17,10 @@ h1,
 /* log in  form css */
 
 .log-in-form {
-    padding: 150px 150px;
-    margin: 0 250px;
-
+    padding: 100px 100px;
+    width: 50%;
+    display: block;
+    margin: 0 auto;
 }
 
 .account_detail {
